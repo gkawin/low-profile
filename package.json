@@ -4,5 +4,15 @@
   "main": "index.js",
   "repository": "https://github.com/gkawin/low-profile.git",
   "author": "Kawin Glomjai <g.kawin@live.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "styled-components": "^2.2.3"
+  }
 }
